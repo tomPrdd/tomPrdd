@@ -1,15 +1,17 @@
-Hi, I'm Tom 👋
+Greetings! I'm Tom. 👋
 
-🇫🇷 I am a french (but international) student in both business and enginnering schools
+🌍 Hailing from France, I pride myself on having an international perspective, fortified by my diverse educational 
+pursuits in both the realms of business and engineering.
 
-📚 I am pursuing an ambitious academic journey, studying Industrial Business Engineering at ESTA in Belfort 
-and pursuing a double degree in Data Science in English at UTBM in Belfort. 
-As part of my studies, I am also undertaking certification courses to specialize in Business Intelligence, 
-including Data Management, Data Analysis, Python, R, SQL, Power BI, Excel, and more.
+🎓 Currently, I'm navigating an enriching academic path. I'm delving into Industrial Business Engineering at ESTA, 
+Belfort, while simultaneously earning a dual degree in Data Science (taught in English) at UTBM, Belfort. 
+Complementing my formal education, I'm also immersing myself in specialized certification courses centered 
+around Business Intelligence. This encompasses a spectrum of skills from Data Management, Data Analysis, 
+and programming languages like Python and R, to tools such as SQL, Power BI, and Excel.
 
-🚀 I am a proactive individual with a passion for leveraging data to make informed business decisions. 
-With my robust academic background and specialized skillset, my goal is to gain practical experience 
-in this field and make a tangible contribution to the organization I work with.
+🌟 Driven by a proactive mindset, I harbor a fervent passion for harnessing the power of data to sculpt 
+informed business strategies. With a solid academic foundation and a suite of specialized skills, I'm eager to 
+translate my theoretical knowledge into actionable insights, aiming to leave a meaningful imprint on any organization I collaborate with.
 
-If you want to start interact, or if you just want to get a deeper insight of my activities, you can find bellow mi LinkedIn 🙃
+Should you wish to engage in a conversation or gain a more in-depth understanding of my endeavors, my LinkedIn profile awaits your perusal below. 🙃
 https://www.linkedin.com/in/tom-pradaude/
