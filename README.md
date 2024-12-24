@@ -6,4 +6,4 @@
 
 💻 Today, I work as a junior data scientist at Michelin Connected Fleet in London.
 
-Feel free to connect or explore more about my journey on [LinkedIn](https://www.linkedin.com/in/tom-pradaude/) 🙃
+Feel free to come and discuss on [my LinkedIn](https://www.linkedin.com/in/tom-pradaude/) 🙃
